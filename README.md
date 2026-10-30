@@ -1,5 +1,5 @@
 # Tu primer Agente de IA
-Este repositorio es el código para el video "Tu primer agente de IA" en el canal Ringa Tech
+lab tutorial de agente AI sin Frameworks
 
 ## Configuración
 Para ejecutar el proyecto es necesario:
