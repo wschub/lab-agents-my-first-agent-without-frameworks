@@ -14,7 +14,3 @@ Para ejecutar el proyecto es necesario:
 ## Ejecución
 - Activar el ambiente virtual
 - Ejecutar ```main.py```
-
-## Agradecimientos
-
-El proyecto está basado libremente en la publicación de Thorsten Ball en [Ampcode.com](https://ampcode.com/how-to-build-an-agent)
